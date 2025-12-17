@@ -1,4 +1,4 @@
-# README
+# git branch 명령어 정리
 
 - add text
 
@@ -10,4 +10,3 @@
 
 - 브렌치 전환
  - git checkout {branch_name}
- 
